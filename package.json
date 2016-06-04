@@ -1,0 +1,19 @@
+{
+  "name": "upchoice",
+  "version": "0.0.1",
+  "description": "A text to decision tree compiler",
+  "main": "lexer.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austbot/upchoice.git"
+  },
+  "author": "\"Austin Adams, Gabrien Symons\"",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/austbot/upchoice/issues"
+  },
+  "homepage": "https://github.com/austbot/upchoice#readme"
+}
