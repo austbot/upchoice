@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/austbot/upchoice/issues"
   },
-  "homepage": "https://github.com/austbot/upchoice#readme"
+  "homepage": "https://github.com/austbot/upchoice#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
 }
